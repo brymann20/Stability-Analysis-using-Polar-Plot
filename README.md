@@ -2,7 +2,7 @@
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=10/(S(1+0.5S)(1+0.2S)) using polar plot and verify it using MATLAB. 
 ## Apparatus Required:
-Computer with MATLAB software
+Computer with MATLAB software.
 
 ## Theory:
 
